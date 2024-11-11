@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46e63151a90f0c34481804bc2cca3741, type: 3}
+  m_Name: Local Player
+  m_EditorClassIdentifier: 
+  username: Player 1
+  playerColor: {r: 0, g: 0.41911763, b: 0.002890443, a: 1}
+  mana: 5
+  startingDeck:
+  - Gym
+  - Archer
+  - Anti-meme
+  - Simple Swordsman
+  - Archer
+  - Simple Swordsman
+  - Cowbelly
+  - Archer
+  - Simple Swordsman
+  - SCP-173
+  - Thanos
+  - Cowbelly
+  - Simple Swordsman
+  - Archer
+  - Glitch
+  - Copy Cat
+  - Among Us
+  - Gym
+  - Containment Breach
+  - Glitch
+  - SCP-173
+  - Simple Swordsman
+  - Containment Breach
+  - Technoblade
+  - Glitch
+  - Copy Cat
+  - Among Us
+  - Anti-meme
+  - Anti-meme
+  - Archer
+  isHumanPlayer: 1
+  head: {fileID: 21300000, guid: f562fe97a343b774a90c94a0a69b8cda, type: 3}
+  eyes: {fileID: 21300000, guid: ad085974d05abbc47aca02620933c3fa, type: 3}
+  beard: {fileID: 21300000, guid: 18ea23e71692a4d41a858383156cfcda, type: 3}
+  ears: {fileID: 21300000, guid: 3b0465ff166573a49942684e1569720b, type: 3}
+  eyebrows: {fileID: 21300000, guid: 4115f927ee3d1c74dba247bb7ce7164b, type: 3}
+  hat: {fileID: 21300000, guid: ba2bcc68c2b222642889555ff20f6b10, type: 3}
+  moustache: {fileID: 21300000, guid: e12e5f3a6352db741b12a42417e195cb, type: 3}
+  mouth: {fileID: 21300000, guid: 1b91132290dc7244eb6dcbb57d91e7cf, type: 3}
+  nose: {fileID: 21300000, guid: e8b2292cedc0110428d6c5ab16cc6091, type: 3}
+  health: 5000
+  maxHealth: 5000
+  statsUI: {fileID: 0}
+  handLogic: {fileID: 11400000, guid: 2b68152f5eddefe4081938b265fc12ee, type: 2}
+  downLogic: {fileID: 11400000, guid: b99d9ce724a3b7649a7a73f190c95bb6, type: 2}
+  playerCard: {fileID: 0}

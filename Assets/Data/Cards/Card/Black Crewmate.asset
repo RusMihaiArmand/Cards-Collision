@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9d53b0d6877d8245b547719406c690d, type: 3}
+  m_Name: Black Crewmate
+  m_EditorClassIdentifier: 
+  cardType: {fileID: 11400000, guid: 25dd1fea08e13ee4a849af0a00891c52, type: 2}
+  cost: 0
+  properties:
+  - StringValue: Black Crewmate
+    intValue: 0
+    element: {fileID: 11400000, guid: f710222e767f3d343b957744d4166df2, type: 2}
+    sprite: {fileID: 0}
+  - StringValue: ITSCE.
+    intValue: 0
+    element: {fileID: 11400000, guid: 7dce43738b82741468fdb55065b78423, type: 2}
+    sprite: {fileID: 0}
+  - StringValue: 
+    intValue: 0
+    element: {fileID: 11400000, guid: c746a29516bf381459d5cce4dec3cd83, type: 2}
+    sprite: {fileID: 21300000, guid: 7b709ab723273df4fb72bbdb0632b768, type: 3}
+  - StringValue: 
+    intValue: 0
+    element: {fileID: 11400000, guid: fcc9f062f6fe0a14b92eec6a8ef405b6, type: 2}
+    sprite: {fileID: 0}
+  - StringValue: 
+    intValue: 10
+    element: {fileID: 11400000, guid: 5aa3c2e569b09af429304e931285f3a7, type: 2}
+    sprite: {fileID: 0}
+  - StringValue: 
+    intValue: 0
+    element: {fileID: 11400000, guid: 7281623c3d1a6604fa7d8424ee7a4771, type: 2}
+    sprite: {fileID: 0}
+  - StringValue: Game
+    intValue: 0
+    element: {fileID: 11400000, guid: 3456e192e27d4f942963531af328bf7f, type: 2}
+    sprite: {fileID: 0}
+  - StringValue: 
+    intValue: 0
+    element: {fileID: 11400000, guid: 39778c6387e054d469ac700540d75a7d, type: 2}
+    sprite: {fileID: 21300000, guid: 90b64e70cf3c1b442a79fae7a34c9342, type: 3}
+  - StringValue: M
+    intValue: 0
+    element: {fileID: 11400000, guid: bd81cdfa4a8fd704d848b6a9849f8ce4, type: 2}
+    sprite: {fileID: 0}
+  hasCharge: 0
+  nrAttacks: 1
+  immuneToStatChange: 1

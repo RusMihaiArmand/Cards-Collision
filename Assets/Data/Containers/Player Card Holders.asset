@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfe13c474744ae44b823fa969646cbfb, type: 3}
+  m_Name: Player Card Holders
+  m_EditorClassIdentifier: 
+  handGrid: {fileID: 11400000, guid: 24ba879dae8046d4abce55b5e57bc6e3, type: 2}
+  downGrid: {fileID: 11400000, guid: c79507021f870084890307fd396597f9, type: 2}
+  downGrid1: {fileID: 11400000, guid: eb9966f2e1ceb1a429dc2c3621cb52aa, type: 2}
+  downGrid2: {fileID: 11400000, guid: 93c050e8981369c4db3b37bda72aaa5a, type: 2}
+  downGrid3: {fileID: 11400000, guid: b183c52fcf2886e4ba75c474f5762a7b, type: 2}
+  downGrid4: {fileID: 11400000, guid: 25f9cdd3a12a7e84f8892f149f8cec66, type: 2}
+  downGrid5: {fileID: 11400000, guid: 5204c900b89173949b8150242020c52a, type: 2}
+  downGrid6: {fileID: 11400000, guid: b79760e24900a3948876c2d8406297db, type: 2}
+  downGrid7: {fileID: 11400000, guid: 128e7a468422fd14eab94682d0f3a1fa, type: 2}
+  downGrid8: {fileID: 11400000, guid: 78f2f92fe1821d340b0b22cb5a8a6297, type: 2}
+  downGrid9: {fileID: 11400000, guid: 6c91a6be17d35c14787cdad17b711ab3, type: 2}
+  downGridB: {fileID: 11400000, guid: 0ab4eb30ec517ba41a9bf9bb56271869, type: 2}
+  downGridB1: {fileID: 11400000, guid: 3f77bd3cfcb7fb14da6c3302443b8912, type: 2}
+  downGridB2: {fileID: 11400000, guid: e8899e8b80b3e4e4aa4a6fa716334332, type: 2}
+  playerCardGrid: {fileID: 11400000, guid: 88d8b29b3287c004b9e3f7e3dafbedc8, type: 2}

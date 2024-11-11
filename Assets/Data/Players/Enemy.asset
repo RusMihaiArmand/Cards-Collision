@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46e63151a90f0c34481804bc2cca3741, type: 3}
+  m_Name: Enemy
+  m_EditorClassIdentifier: 
+  username: Enemy
+  playerColor: {r: 1, g: 0, b: 0, a: 1}
+  mana: 1
+  startingCards:
+  - Technoblade
+  - SCP-914
+  - Technoblade
+  - Among Us
+  - Anti-meme
+  - Simple Swordsman
+  - Yellow Impostor
+  - Containment Breach
+  isHumanPlayer: 0
+  head: {fileID: 21300000, guid: 95d243aa1d6eae243a91fe79629413ee, type: 3}
+  eyes: {fileID: 21300000, guid: 60d0a54571a13be4a9f4551b48225cdc, type: 3}
+  beard: {fileID: 21300000, guid: 507c9a72408e6aa489e781bdd6ae4f2e, type: 3}
+  ears: {fileID: 21300000, guid: 1c3d1def94eae35488ad9b8e13bd0bb3, type: 3}
+  eyebrows: {fileID: 21300000, guid: b7e5bbe76cfd38b41b2e4dc86e98ace8, type: 3}
+  hat: {fileID: 21300000, guid: dcbe6b26f8bbea34e9f9fbdc3ee9ad7f, type: 3}
+  moustache: {fileID: 21300000, guid: dae5359db163e4e4998b48eb63c47e6e, type: 3}
+  mouth: {fileID: 21300000, guid: 1b91132290dc7244eb6dcbb57d91e7cf, type: 3}
+  nose: {fileID: 21300000, guid: e8b2292cedc0110428d6c5ab16cc6091, type: 3}
+  health: 3600
+  maxHealth: 5000
+  StatsUI: {fileID: 0}
+  handLogic: {fileID: 11400000, guid: 2b68152f5eddefe4081938b265fc12ee, type: 2}
+  downLogic: {fileID: 11400000, guid: b99d9ce724a3b7649a7a73f190c95bb6, type: 2}
+  playerCard: {fileID: 0}
